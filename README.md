@@ -1,5 +1,7 @@
 # Experimental challenge of African green monkeys with contemporary Hendra virus isolates produces divergent clinical disease: Nanostring transcriptomic analyses
 
+[![DOI](https://zenodo.org/badge/968323978.svg)](https://doi.org/10.5281/zenodo.15238546)
+
 > Paper citation TBD
 
 ## Abstract

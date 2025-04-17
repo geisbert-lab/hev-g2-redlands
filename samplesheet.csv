@@ -1,0 +1,54 @@
+﻿ID,NHP,DPI,Timepoint,Agent,QC pass,Inactivation
+sample01,R-1,0,Baseline,HeV-R,TRUE,AVL
+sample02,R-1,4,4 DPI,HeV-R,TRUE,AVL
+sample03,R-1,7,7 DPI,HeV-R,TRUE,AVL
+sample04,R-1,9,Terminal,HeV-R,FALSE,AVL
+sample05,R-2,0,Baseline,HeV-R,TRUE,AVL
+sample06,R-2,4,4 DPI,HeV-R,TRUE,AVL
+sample07,R-2,7,Terminal,HeV-R,TRUE,AVL
+sample08,R-3,0,Baseline,HeV-R,TRUE,AVL
+sample09,R-3,4,4 DPI,HeV-R,TRUE,AVL
+sample10,R-3,7,Terminal,HeV-R,TRUE,AVL
+sample11,R-4,0,Baseline,HeV-R,TRUE,AVL
+sample12,R-4,4,4 DPI,HeV-R,TRUE,TRIzol LS
+sample13,R-4,6,Terminal,HeV-R,TRUE,TRIzol LS
+sample14,R-5,0,Baseline,HeV-R,TRUE,AVL
+sample15,R-5,4,4 DPI,HeV-R,TRUE,AVL
+sample16,R-5,7,7 DPI,HeV-R,TRUE,TRIzol LS
+sample17,R-5,8,Terminal,HeV-R,TRUE,TRIzol LS
+sample18,g2-1,0,Baseline,HeV-g2,TRUE,AVL
+sample19,g2-1,4,4 DPI,HeV-g2,TRUE,AVL
+sample20,g2-1,7,7 DPI,HeV-g2,TRUE,AVL
+sample21,g2-1,10,10 DPI,HeV-g2,TRUE,AVL
+sample22,g2-1,14,>10 DPI,HeV-g2,TRUE,AVL
+sample23,g2-1,21,>10 DPI,HeV-g2,TRUE,AVL
+sample24,g2-1,28,>10 DPI,HeV-g2,TRUE,AVL
+sample25,g2-1,35,>10 DPI,HeV-g2,TRUE,AVL
+sample26,g2-2,0,Baseline,HeV-g2,TRUE,AVL
+sample27,g2-2,4,4 DPI,HeV-g2,TRUE,AVL
+sample28,g2-2,7,7 DPI,HeV-g2,TRUE,AVL
+sample29,g2-2,10,Terminal,HeV-g2,TRUE,AVL
+sample30,g2-3,0,Baseline,HeV-g2,TRUE,AVL
+sample31,g2-3,4,4 DPI,HeV-g2,TRUE,AVL
+sample32,g2-3,7,7 DPI,HeV-g2,TRUE,AVL
+sample33,g2-3,10,10 DPI,HeV-g2,TRUE,AVL
+sample34,g2-3,14,>10 DPI,HeV-g2,TRUE,AVL
+sample35,g2-3,21,>10 DPI,HeV-g2,TRUE,AVL
+sample36,g2-3,28,>10 DPI,HeV-g2,TRUE,AVL
+sample37,g2-3,35,>10 DPI,HeV-g2,TRUE,AVL
+sample38,g2-4,0,Baseline,HeV-g2,TRUE,AVL
+sample39,g2-4,4,4 DPI,HeV-g2,TRUE,AVL
+sample40,g2-4,7,7 DPI,HeV-g2,TRUE,AVL
+sample41,g2-4,10,10 DPI,HeV-g2,TRUE,AVL
+sample42,g2-4,14,>10 DPI,HeV-g2,TRUE,AVL
+sample43,g2-4,21,>10 DPI,HeV-g2,TRUE,AVL
+sample44,g2-4,28,>10 DPI,HeV-g2,TRUE,AVL
+sample45,g2-4,35,>10 DPI,HeV-g2,TRUE,AVL
+sample46,g2-5,0,Baseline,HeV-g2,TRUE,AVL
+sample47,g2-5,4,4 DPI,HeV-g2,TRUE,AVL
+sample48,g2-5,7,7 DPI,HeV-g2,TRUE,AVL
+sample49,g2-5,10,10 DPI,HeV-g2,TRUE,TRIzol LS
+sample50,g2-5,14,>10 DPI,HeV-g2,TRUE,AVL
+sample51,g2-5,21,>10 DPI,HeV-g2,TRUE,AVL
+sample52,g2-5,28,>10 DPI,HeV-g2,TRUE,AVL
+sample53,g2-5,35,>10 DPI,HeV-g2,TRUE,AVL
